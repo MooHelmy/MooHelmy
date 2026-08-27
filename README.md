@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Mohamed Helmy from Egypt<br>Mobile Developer eager to improve skills, face new challenges, and gain more experience in mobile app<br>development, especially using the Flutter framework. Passionate about teamwork and creating innovative mobile<br>applications that solve real problems.</p>
+<p align="left">I'm Mohamed Helmy Software Engineer with 3+ years of experience building scalable, cross-platform apps with Flutter and Dart. Recently expanded into backend development, shipping ASP.NET Core Web API projects with Entity Framework Core, SQL Server, and JWT authentication. Passionate about creating innovative solutions that solve real problems, from mobile to backend.</p>
 
 ###
 
