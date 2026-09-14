@@ -131,7 +131,7 @@ Software Engineer with <b>3+ years</b> building scalable, cross-platform apps in
 
 <table>
 <tr><td colspan="2">
-<img src="https://raw.githubusercontent.com/MooHelmy/MooHelmy/main/assets/featured/tabyaan_banner.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/MooHelmy/MooHelmy/main/featured/tabyaan_banner.png" width="100%"/>
 </td></tr>
 <tr>
 <td width="35%" valign="top" align="center">
@@ -162,7 +162,7 @@ Software Engineer with <b>3+ years</b> building scalable, cross-platform apps in
 <tr><td colspan="2" align="center"><br></td></tr>
 
 <tr><td colspan="2">
-<img src="https://raw.githubusercontent.com/MooHelmy/MooHelmy/main/assets/featured/muadh_banner.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/MooHelmy/MooHelmy/main/featured/muadh_banner.png" width="100%"/>
 </td></tr>
 <tr>
 <td width="35%" valign="top" align="center">
@@ -193,7 +193,7 @@ Software Engineer with <b>3+ years</b> building scalable, cross-platform apps in
 <tr><td colspan="2" align="center"><br></td></tr>
 
 <tr><td colspan="2">
-<img src="https://raw.githubusercontent.com/MooHelmy/MooHelmy/main/assets/featured/scancare_banner.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/MooHelmy/MooHelmy/main/featured/scancare_banner.png" width="100%"/>
 </td></tr>
 <tr>
 <td width="35%" valign="top" align="center">
