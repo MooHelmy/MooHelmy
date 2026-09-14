@@ -1,213 +1,221 @@
 <!-- Header Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1F3A93,100:00D9FF&height=200&section=header&text=Mohamed%20Helmy&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20.NET%20Software%20Engineer&descAlignY=58&descSize=20" width="100%" alt="Mohamed Helmy - Flutter & .NET Software Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:512BD4&height=160&section=header&text=Hi,+I'm+Mohamed+Helmy+👋&fontSize=34&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
 </p>
-
-<h1 align="center">Mohamed Helmy</h1>
-<h3 align="center">Flutter & .NET Software Engineer</h3>
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Crafting+Offline-First+%26+AI-Powered+Apps+%F0%9F%93%B1;Clean+Architecture+%7C+MVVM+%7C+Bloc%2FCubit;Now+Shipping+ASP.NET+Core+APIs+%E2%9A%99%EF%B8%8F;On-Device+AI+%7C+Speech+Recognition+%7C+CNN+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&color=6C63FF&width=650&lines=Flutter+%26+.NET+Backend+Developer;Clean+Architecture+%2B+MVVM+%2B+Bloc%2FCubit;On-Device+AI+%26+Speech+Recognition+%F0%9F%A4%96;Shipping+Offline-First%2C+Production-Ready+Apps" />
 </p>
 
+<!-- Contact strip -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamedHelmy-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:moohaamed.hhelmy.13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/201140080928"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@eng_mo723"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/📍_Benha,_Egypt-333?style=flat-square"/>
+</div>
+
+<!-- Quick highlight badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamedHelmy-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:moohaamed.hhelmy.13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/MooHelmy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@eng_mo723"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Shipped%20Apps-4-00A8E8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend%20APIs-3-512BD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YouTube%20Views-50K%2B-FF0000?style=for-the-badge"/>
 </p>
 
+<!-- Decorative divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
 <!-- ================= ABOUT ME ================= -->
 
-## 👨‍💻 About Me
+<h2>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+  <span style="color:#6C63FF;">About Me</span>
+</h2>
 
-Software Engineer with **3+ years** building cross-platform apps in **Flutter/Dart**, and recently expanded into **backend engineering** with three production-grade **ASP.NET Core Web APIs** — e-commerce, flight booking, and hotel management.
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="230">
 
-I like building things that don't need the internet to work: **offline-first**, **on-device AI**, and systems that just don't break when the connection does. My independent app portfolio spans on-device speech recognition, real-time content moderation with a 3-model AI ensemble, and CNN-based medical diagnosis — cutting manual workflows by up to **80%** through automation.
+<p>
+Software Engineer with <b>3+ years</b> building scalable, cross-platform apps in <b>Flutter/Dart</b> on top of <b>Clean Architecture</b>, <b>MVVM</b>, and modern state management. Recently expanded into <b>backend engineering</b>, shipping three <b>ASP.NET Core Web API</b> systems — e-commerce, flight booking, and hotel management — with EF Core, SQL Server, and JWT auth. Independently designed and shipped a portfolio of <b>AI-powered, offline-first</b> products, including on-device speech recognition and a 3-model on-device detection ensemble, automating manual workflows by up to <b>80%</b>.
+</p>
 
-- 🎓 **Computer Science** — Benha University, Faculty of Computers & AI
-- 🪖 Built a secure Flutter system to digitize military educational logistics — Egyptian Armed Forces (MTC)
-- 🕌 Solo-building **Tabyaan**, a 10+ module Islamic super-app, live on Huawei AppGallery
-- 📹 100+ educational videos, 50K+ views — [YouTube @eng_mo723](https://www.youtube.com/@eng_mo723)
-- 🚀 Open to **Flutter** and **.NET Backend** opportunities — freelance or full-time
+<h3>🎓 Education & Certifications</h3>
+<ul>
+  <li>🏫 <b>B.Sc. Computer Science</b> — Benha University, Faculty of Computers & AI (2020–2024) · Graduation Project: <b>Excellent</b></li>
+  <li>📱 <b>Flutter Developer</b> Certification — ITI, Menoufia (2023)</li>
+  <li>🤖 <b>Mobile Development (Flutter)</b> & <b>Android Developer</b> — ITCRC, Benha (2022–2023)</li>
+  <li>🎥 <b>100+ tutorials</b> on YouTube <a href="https://www.youtube.com/@eng_mo723">@eng_mo723</a> — 50,000+ views on Flutter, software engineering, embedded systems & assembly</li>
+</ul>
+
+<h3>🧭 Currently</h3>
+<ul>
+  <li>🔭 Building layered <b>ASP.NET Core (.NET 10)</b> APIs — Flight Booking & Hotel Management systems</li>
+  <li>🕌 Preparing <b>Tabyaan (تبيان)</b> for Google Play launch</li>
+  <li>🛡️ Iterating on <b>Muadh (معاذ)</b>, an on-device AI content-protection platform</li>
+  <li>🌱 Deepening backend architecture, cloud deployment & DevOps</li>
+  <li>💼 Open to <b>Flutter</b>, <b>.NET Backend</b>, and <b>Full-Stack</b> opportunities — remote or on-site</li>
+</ul>
+
+<br clear="right">
+
+<!-- Decorative divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+<!-- ================= LANGUAGES & TOOLS ================= -->
+
+## 🚀 Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,csharp,dotnet,java,kotlin,python,cpp,c,firebase,mysql,sqlite,git,github,androidstudio,vscode,postman" />
+
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-<!-- ================= STACK ================= -->
+<!-- ================= TECHNOLOGY STACK ================= -->
 
-## 🛠️ Languages & Tools
+## ⚙️ Technology Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,java,kotlin,python,cpp,firebase,mysql,sqlite,git,github,androidstudio,vscode,postman,figma" />
-</div>
-
-<br>
-
-### 📱 Mobile & Architecture
+### 📱 Mobile & Cross-Platform
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-3A3A3A?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-4B32C3?style=for-the-badge)
-![BLoC / Cubit](https://img.shields.io/badge/BLoC%20%2F%20Cubit-6C63FF?style=for-the-badge)
+![BLoC/Cubit](https://img.shields.io/badge/BLoC%20%2F%20Cubit-6C63FF?style=for-the-badge)
 ![Provider](https://img.shields.io/badge/Provider-13B9FD?style=for-the-badge)
-![Riverpod](https://img.shields.io/badge/Riverpod-1A5CC8?style=for-the-badge)
 
 ### ⚙️ Backend & APIs
-![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Identity](https://img.shields.io/badge/ASP.NET%20Identity-512BD4?style=for-the-badge)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-00A8E8?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-00A8E8?style=for-the-badge)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-3A3A3A?style=for-the-badge)
 
-### 🧠 AI / ML & On-Device
-![CNN](https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge)
-![Google ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Speech Recognition](https://img.shields.io/badge/Speech%20Recognition-6C63FF?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8A2BE2?style=for-the-badge)
+### 🤖 AI / ML & On-Device Intelligence
+![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN%20%2F%20Computer%20Vision-F34F29?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
+![Speech Recognition](https://img.shields.io/badge/Speech%20Recognition-009688?style=for-the-badge)
 
 ### ☁️ Data & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-FFC300?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Secure Storage](https://img.shields.io/badge/Secure%20Storage-2F4F4F?style=for-the-badge)
 
-### 🧪 Testing & DevOps
+### 🧪 Testing Stack
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Widget Testing](https://img.shields.io/badge/Widget%20Testing-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Bloc Test](https://img.shields.io/badge/Bloc%20Test-6C63FF?style=for-the-badge)
+![Mockito / Mocktail](https://img.shields.io/badge/Mockito%2FMocktail-8A2BE2?style=for-the-badge)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-<!-- ================= PROJECTS ================= -->
-
-## 🚀 Featured Projects
+<!-- ================= FEATURED PROJECTS ================= -->
+## 📱 Featured Projects
 
 <table>
+<tr><td colspan="2">
+<img src="https://raw.githubusercontent.com/MooHelmy/MooHelmy/main/assets/featured/tabyaan_banner.png" width="100%"/>
+</td></tr>
 <tr>
-<td width="230" align="center" valign="top">
-<br>
-<img src="https://img.shields.io/badge/📿-ISLAMIC%20SUPER%20APP-1F3A93?style=for-the-badge"/>
-<br><br>
-<img src="https://img.shields.io/badge/Status-Launching%20on%20Play%20Store-2E8B57?style=for-the-badge"/>
+<td width="35%" valign="top" align="center">
+<img src="https://img.shields.io/badge/APP-ISLAMIC%20SUPER--APP-0B5FA5?style=for-the-badge"/>
 </td>
 <td>
 
 ### 🕌 [Tabyaan (تبيان)](https://github.com/MooHelmy/Tabyana) — All-in-One Islamic Companion App
 
-> A solo-built super-app spanning **10+ feature modules**: Quran reading, tafsir, hadith, fatwa Q&A, a **live recitation coach**, a zakat calculator, and a gamified prophetic-knowledge tree — all on Clean Architecture.
+> A solo-built Islamic super-app spanning 10+ modules — Quran, tafsir, hadith, fatwa Q&A, a live recitation coach, and a gamified prophetic-knowledge tree — built end-to-end with Clean Architecture.
 
-**✨ Highlights**
-- 🎙️ **Live Quran recitation checker** — on-device speech recognition matching spoken verses word-by-word in real time, with diacritic-normalized Arabic comparison
-- 📴 **Offline-first** — Hive-backed persistence keeps Quran text, tafsir, hadith, and reading history usable with zero network
-- 🎮 Gamified learning: quizzes, leaderboard, rewards + a custom-painted Prophet lineage & battles timeline
-- 💰 Zakat calculator with a custom-painted scale visualization, multi-currency & gold/silver nisab support
-- 🔐 Firebase Auth/Firestore/Storage for accounts, fatwa submissions & user-generated video content
-- 🌍 Full Arabic/English localization with light/dark theming
+**✨ Key Contributions**
+- 🎙️ **Live recitation checker:** on-device speech recognition matches spoken verses word-by-word against Quran text, with diacritic-normalized Arabic comparison.
+- 📴 **Offline-first:** Hive-backed persistence for Quran text, tafsir, hadith, and reading history.
+- 🏆 **Gamified learning:** quizzes, leaderboard, rewards, plus a custom-painted Prophet lineage tree & battles timeline.
+- 🕋 **Zakat calculator** with a custom-painted scale visualization — multi-currency, gold/silver nisab support.
+- 🔥 Firebase Auth/Firestore/Storage for accounts, fatwa submissions & user-generated Islamic video content; full Arabic/English localization.
 
-**🛠 Stack**
+**🛠 Tech Stack**
 <br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Bloc%2FCubit-6C63FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Hive-FFC300?style=for-the-badge"/> <img src="https://img.shields.io/badge/speech__to__text-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Hive-FFC300?style=for-the-badge"/> <img src="https://img.shields.io/badge/Bloc%2FCubit-6C63FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/speech__to__text-009688?style=for-the-badge"/>
 
-<a href="https://appgallery.huawei.com/app/C118813307"><img src="https://img.shields.io/badge/Huawei%20AppGallery-Available%20Now-C7000B?style=for-the-badge&logo=huawei&logoColor=white"/></a>
+📦 **Get it:** [Huawei AppGallery](https://appgallery.huawei.com/app/C118813307) · [GitHub](https://github.com/MooHelmy/Tabyana)
 
 </td>
 </tr>
 
-<tr><td colspan="2" align="center">
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%"/></div>
-</td></tr>
+<tr><td colspan="2" align="center"><br></td></tr>
 
+<tr><td colspan="2">
+<img src="https://raw.githubusercontent.com/MooHelmy/MooHelmy/main/assets/featured/muadh_banner.png" width="100%"/>
+</td></tr>
 <tr>
-<td width="230" align="center" valign="top">
-<br>
-<img src="https://img.shields.io/badge/🛡️-CONTENT%20PROTECTION-8B0000?style=for-the-badge"/>
+<td width="35%" valign="top" align="center">
+<img src="https://img.shields.io/badge/APP-CONTENT%20PROTECTION-1E3A8A?style=for-the-badge"/>
 </td>
 <td>
 
 ### 🛡️ [Muadh (معاذ)](https://github.com/MooHelmy/releases) — AI-Powered Content Protection App
 
-> An on-device Android platform that detects and removes explicit media in real time — **zero cloud dependency**.
+> An Android platform that detects and removes explicit media entirely **on-device** — zero cloud dependency, built for family digital safety.
 
-**✨ Highlights**
-- 🧠 **3-model AI ensemble** (NSFW classifier, face detector, skin analyzer) with confidence-based scoring & early-exit, cutting processing overhead ~25%
-- 👁️ Real-time on-screen monitoring via Android AccessibilityService with configurable policy enforcement
-- 📸 FileObserver-driven pipeline scanning new media instantly — no manual scans needed
-- 🔒 Encrypted PIN-protected Device Admin controls to block unauthorized removal or bypass
-- 🌐 Custom DNS-level filtering via Android VpnService, blocking explicit content app-wide with zero configuration
-- 📊 Real-time monitoring dashboard with per-source deletion analytics, backed by Riverpod + Hive
+**✨ Key Contributions**
+- 🧠 **3-model AI ensemble** (NSFW classifier, face detector, skin analyzer) with confidence scoring & early-exit — ~25% less processing overhead at the same accuracy.
+- 👁️ **Real-time monitoring** via AccessibilityService, with configurable alerts and policy enforcement across apps.
+- 📸 **Instant scan pipeline** via Android FileObserver — new photos/videos are analyzed the moment they're created.
+- 🔐 **Device Admin controls** with encrypted PIN authorization to block uninstall or protection bypass.
+- 🌐 **Custom DNS-level filtering** via VpnService — blocks explicit content across all browsers/apps, zero configuration.
 
-**🛠 Stack**
+**🛠 Tech Stack**
 <br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge"/> <img src="https://img.shields.io/badge/ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge"/> <img src="https://img.shields.io/badge/ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Riverpod-2F4F4F?style=for-the-badge"/>
 
-<a href="https://apkpure.com/p/com.helmy.muadh"><img src="https://img.shields.io/badge/APKPure-Download-24A263?style=for-the-badge"/></a>
+📦 **Get it:** [APKPure](https://apkpure.com/p/com.helmy.muadh) · [GitHub Releases](https://github.com/MooHelmy/releases)
 
 </td>
 </tr>
 
-<tr><td colspan="2" align="center">
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%"/></div>
-</td></tr>
+<tr><td colspan="2" align="center"><br></td></tr>
 
+<tr><td colspan="2">
+<img src="https://raw.githubusercontent.com/MooHelmy/MooHelmy/main/assets/featured/scancare_banner.png" width="100%"/>
+</td></tr>
 <tr>
-<td width="230" align="center" valign="top">
-<br>
-<img src="https://img.shields.io/badge/🩺-AI%20DIAGNOSIS-1E6FE0?style=for-the-badge"/>
+<td width="35%" valign="top" align="center">
+<img src="https://img.shields.io/badge/APP-AI%20MEDICAL%20DIAGNOSIS-B91C1C?style=for-the-badge"/>
 </td>
 <td>
 
-### 🩺 ScanCare — AI Medical Diagnosis App (Graduation Project)
+### 🩺 [ScanCare](https://www.youtube.com/watch?v=ToaSB4hXt64) — AI Medical Diagnosis App *(Graduation Project · Excellent)*
 
-> A Flutter app using **CNNs** to detect health conditions from medical images with high diagnostic accuracy.
+> A CNN-powered medical app that reads medical images to flag health conditions with high diagnostic accuracy.
 
-**✨ Highlights**
-- 🧠 **5 integrated AI models**, automating 70% of diagnostic tasks and slashing assessment time
-- 🗺️ Google Maps API for nearby clinic discovery
-- 💳 Stripe integration for secure payments + encrypted patient-provider messaging
-- 🏗️ Clean Architecture with Bloc, fully testable codebase
+**✨ Key Contributions**
+- 🧬 **5 integrated AI models** automating ~70% of diagnostic tasks and cutting average assessment time.
+- 🗺️ **Google Maps API** for nearby clinic discovery.
+- 💳 **Stripe** for secure payments, plus encrypted patient–provider messaging.
+- 🏗️ Clean Architecture + Bloc for a maintainable, fully testable codebase.
 
-**🛠 Stack**
+**🛠 Tech Stack**
 <br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/CNN-F34F29?style=for-the-badge"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
 
-<a href="https://youtube.com/watch?v=ToaSB4hXt64"><img src="https://img.shields.io/badge/YouTube-Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-
-</td>
-</tr>
-
-<tr><td colspan="2" align="center">
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%"/></div>
-</td></tr>
-
-<tr>
-<td width="230" align="center" valign="top">
-<br>
-<img src="https://img.shields.io/badge/⚙️-.NET%20BACKEND%20APIS-512BD4?style=for-the-badge"/>
-</td>
-<td>
-
-### ⚙️ .NET Core Backend APIs
-
-**✈️ [Flight Booking System](https://github.com/MooHelmy/Flight-booking-system)** — Airline reservation REST API on .NET 10, with multi-tier fare classes, a seat-hold system preventing double-booking, a high-demand queue-management module, and JWT + role-based auth on ASP.NET Identity.
-
-**🏨 [Hotel Management System](https://github.com/MooHelmy/Hotel-Management-.net)** — Full hotel-ops API across 7 controllers (hotels, rooms, guests, employees, reservations, payments), with real-time check-in/check-out workflows and a relational schema modeled via EF Core migrations.
-
-**🛒 [E-Commerce Backend API](https://github.com/MooHelmy/.Net_Ecommerce_app)** — RESTful e-commerce platform with JWT-secured endpoints and a clean, layered architecture.
-
-**🛠 Stack**
-<br>
-<img src="https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAPI%2FScalar-6BA539?style=for-the-badge"/>
+🎬 **Demo:** [YouTube](https://www.youtube.com/watch?v=ToaSB4hXt64)
 
 </td>
 </tr>
@@ -217,15 +225,83 @@ I like building things that don't need the internet to work: **offline-first**, 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-<!-- ================= STATS ================= -->
+## 🖥️ Backend Systems
 
-## 📊 GitHub Stats
+<table>
+<tr>
+<td width="34%" valign="top">
+
+**🛒 [E-Commerce Backend API](https://github.com/MooHelmy/.Net_Ecommerce_app)**
+<br><sub>Feb 2026</sub>
+
+RESTful backend on ASP.NET Core + EF Core with SQL Server, JWT auth, and a clean layered structure.
+
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+
+</td>
+<td width="33%" valign="top">
+
+**✈️ [Flight Booking System](https://github.com/MooHelmy/Flight-booking-system)**
+<br><sub>Aug 2026 – Present</sub>
+
+Layered .NET 10 API with role-based auth, multi-tier fares, seat-hold checkout logic, and a booking queue module.
+
+<img src="https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Identity%20%2B%20JWT-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Scalar-6C63FF?style=flat-square"/>
+
+</td>
+<td width="33%" valign="top">
+
+**🏨 [Hotel Management System](https://github.com/MooHelmy/Hotel-Management-.net)**
+<br><sub>Aug 2026 – Present</sub>
+
+7-controller .NET 10 API covering hotels, rooms, guests, reservations & payments with real-time availability tracking.
+
+<img src="https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square"/> <img src="https://img.shields.io/badge/REST%20API-00A8E8?style=flat-square"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=MooHelmy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=460" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MooHelmy&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&card_width=390" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
+<!-- ================= EXPERIENCE ================= -->
+## 💼 Professional Experience
+
+### 🎖️ Software Engineer — Military Service · Egyptian Armed Forces (MTC)
+<sub>Dec 2024 – Dec 2025 · Cairo, Egypt</sub>
+
+Engineered a secure Flutter system that digitized military educational logistics, lecture tracking, and attendance — fully replacing a paper-based workflow.
+
+- Automated attendance & reporting, reducing manual data-entry time by ~80% and eliminating transcription errors.
+- Architected an offline-first sync engine on Hive, ensuring zero data loss in restricted/low-connectivity environments.
+- Cut report generation from several hours to under 5 minutes via automated multi-step pipelines.
+- Implemented AES-based secure storage and role-based access control for sensitive data handling.
+
+### 💻 Flutter Developer — Freelancer (Self-Employed)
+<sub>Dec 2024 (Part-Time) – Present · Remote</sub>
+
+- Delivered 3+ cross-platform Flutter apps using Clean Architecture, MVVM, and Bloc/Cubit for diverse client needs.
+- Integrated REST APIs, Firebase Auth/Firestore, and third-party SDKs including Stripe.
+- Maintained smooth 60fps rendering and low memory footprint through performance profiling.
+- Applied secure storage, background services, and Android lifecycle best practices for production reliability.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+<!-- ================= GITHUB STATS ================= -->
+## 📊 GitHub Stats
+<div align="center">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=MooHelmy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=460" /><img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MooHelmy&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&card_width=390" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+## 🔥 GitHub Streak
 <p align="center">
   <img height="195px" src="https://streak-stats.demolab.com/?user=MooHelmy&theme=tokyonight&hide_border=true&card_width=845"/>
 </p>
@@ -234,85 +310,67 @@ I like building things that don't need the internet to work: **offline-first**, 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-<!-- ================= TROPHIES ================= -->
-
-## 🏆 Trophy Room
-
+## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MooHelmy&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MooHelmy&theme=react-dark&hide_border=true&area=true&bg_color=0D1117"/>
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MooHelmy&theme=react-dark&hide_border=true&area=true&bg_color=0A0E27&color=00D9FF&line=00D9FF" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-<!-- ================= SNAKE ================= -->
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MooHelmy/MooHelmy/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-> ⚙️ **Setup note:** the snake animates automatically once you add the [Snake GitHub Action](https://github.com/Platane/snk) to a repo named exactly `MooHelmy` (a special profile repo). Steps below 👇
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-<!-- ================= NOW CODING ================= -->
-
-## 💻 What I'm Coding Right Now
-
-<!--START_SECTION:waka-->
-```text
-Connect WakaTime below to make this update live every day.
-```
-<!--END_SECTION:waka-->
-
-> ⚙️ **Setup note:** connect a free [WakaTime](https://wakatime.com/) account to your editor, then add the `README waka` GitHub Action so this box auto-updates with your live coding stats. Steps below 👇
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
 <!-- ================= CONTACT ================= -->
-
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamedHelmy-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:moohaamed.hhelmy.13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/MooHelmy" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@eng_mo723" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+
+  <a href="https://www.linkedin.com/in/mohamedHelmy-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:moohaamed.hhelmy.13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/201140080928" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://www.youtube.com/@eng_mo723" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/MooHelmy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
 </div>
 
 <br>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+## 👨🏻‍💻 Views and Followers
+
 <a href="https://github.com/MooHelmy/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MooHelmy&color=00D9FF&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=MooHelmy&color=6C63FF">
 </a>
+
 <a href="https://github.com/MooHelmy?tab=followers">
-    <img src="https://img.shields.io/github/followers/MooHelmy?label=Followers&style=for-the-badge&color=00D9FF" alt="GitHub Badge">
+    <img src="https://img.shields.io/github/followers/MooHelmy?label=Followers&style=social" alt="GitHub Badge">
 </a>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=24&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+stopping+by!+%F0%9F%92%99;Let's+build+something+offline-first%2C+together;Always+shipping+%F0%9F%9A%80&color=00D9FF">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=560&height=70&duration=4000&lines=Thanks+for+visiting!+💙;Let's+build+something+together;Always+shipping+🚀&color=6C63FF">
 </h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150">
+</div>
 
 <!-- Footer wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:1F3A93,100:0A0E27&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:02569B&height=100&section=footer" width="100%" />
 </p>
