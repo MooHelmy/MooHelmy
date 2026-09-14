@@ -129,15 +129,14 @@ Software Engineer with <b>3+ years</b> building scalable, cross-platform apps in
 <!-- ================= FEATURED PROJECTS ================= -->
 ## 📱 Featured Projects
 
-<table>
-<tr><td colspan="2">
-<img src="https://raw.githubusercontent.com/MooHelmy/MooHelmy/main/featured/tabyaan_banner.png" width="100%"/>
-</td></tr>
+<table border="0">
 <tr>
-<td width="35%" valign="top" align="center">
-<img src="https://img.shields.io/badge/APP-ISLAMIC%20SUPER--APP-0B5FA5?style=for-the-badge"/>
+<td width="40%" valign="top" align="center">
+  <img src="https://raw.githubusercontent.com/MooHelmy/MooHelmy/main/featured/tabyaan_banner.png" width="100%" style="border-radius: 8px;"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/APP-ISLAMIC%20SUPER--APP-0B5FA5?style=for-the-badge"/>
 </td>
-<td>
+<td width="60%" valign="top">
 
 ### 🕌 [Tabyaan (تبيان)](https://github.com/MooHelmy/Tabyana) — All-in-One Islamic Companion App
 
@@ -159,16 +158,15 @@ Software Engineer with <b>3+ years</b> building scalable, cross-platform apps in
 </td>
 </tr>
 
-<tr><td colspan="2" align="center"><br></td></tr>
+<tr><td colspan="2"><hr style="border: 0.5px solid #333;"/></td></tr>
 
-<tr><td colspan="2">
-<img src="https://raw.githubusercontent.com/MooHelmy/MooHelmy/main/featured/muadh_banner.png" width="100%"/>
-</td></tr>
 <tr>
-<td width="35%" valign="top" align="center">
-<img src="https://img.shields.io/badge/APP-CONTENT%20PROTECTION-1E3A8A?style=for-the-badge"/>
+<td width="40%" valign="top" align="center">
+  <img src="https://raw.githubusercontent.com/MooHelmy/MooHelmy/main/featured/muadh_banner.png" width="100%" style="border-radius: 8px;"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/APP-CONTENT%20PROTECTION-1E3A8A?style=for-the-badge"/>
 </td>
-<td>
+<td width="60%" valign="top">
 
 ### 🛡️ [Muadh (معاذ)](https://github.com/MooHelmy/releases) — AI-Powered Content Protection App
 
@@ -190,16 +188,15 @@ Software Engineer with <b>3+ years</b> building scalable, cross-platform apps in
 </td>
 </tr>
 
-<tr><td colspan="2" align="center"><br></td></tr>
+<tr><td colspan="2"><hr style="border: 0.5px solid #333;"/></td></tr>
 
-<tr><td colspan="2">
-<img src="https://raw.githubusercontent.com/MooHelmy/MooHelmy/main/featured/scancare_banner.png" width="100%"/>
-</td></tr>
 <tr>
-<td width="35%" valign="top" align="center">
-<img src="https://img.shields.io/badge/APP-AI%20MEDICAL%20DIAGNOSIS-B91C1C?style=for-the-badge"/>
+<td width="40%" valign="top" align="center">
+  <img src="https://raw.githubusercontent.com/MooHelmy/MooHelmy/main/featured/scancare_banner.png" width="100%" style="border-radius: 8px;"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/APP-AI%20MEDICAL%20DIAGNOSIS-B91C1C?style=for-the-badge"/>
 </td>
-<td>
+<td width="60%" valign="top">
 
 ### 🩺 [ScanCare](https://www.youtube.com/watch?v=ToaSB4hXt64) — AI Medical Diagnosis App *(Graduation Project · Excellent)*
 
@@ -294,7 +291,8 @@ Engineered a secure Flutter system that digitized military educational logistics
 <!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=MooHelmy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=460" /><img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MooHelmy&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&card_width=390" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MooHelmy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MooHelmy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
@@ -303,7 +301,7 @@ Engineered a secure Flutter system that digitized military educational logistics
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img height="195px" src="https://streak-stats.demolab.com/?user=MooHelmy&theme=tokyonight&hide_border=true&card_width=845"/>
+  <img height="195px" src="https://streak-stats.demolab.com/?user=MooHelmy&theme=tokyonight&hide_border=true"/>
 </p>
 
 <div align="center">
@@ -312,7 +310,7 @@ Engineered a secure Flutter system that digitized military educational logistics
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MooHelmy&theme=react-dark&hide_border=true&area=true&bg_color=0D1117"/>
+  <img src="https://ghchart.rshah.org/MooHelmy" alt="Mohamed Helmy's GitHub Contributions" width="100%" />
 </p>
 
 <div align="center">
